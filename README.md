@@ -1,6 +1,14 @@
 # WebAPIassignment1
-Web API Assignment One
+Web API Assignment One- SOAPUI
 
+Purpose
+The purpose of this assignment is to work with SOAP-UI and become familiar with HTTP,
+REST and SOAP through the testing framework provided by SOAP-UI.
+You will create a SOAP-UI project and create both a REST and SOAP test within the
+project. You will need to automate each test and include at least 1 assert for each request
+in the validation.
+
+Requirements:
 
 • Create a REST request to get started: 
 https://www.googleapis.com/books/v1/volumes?q=turing
