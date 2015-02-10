@@ -1,0 +1,18 @@
+REST request:
+https://www.googleapis.com/books/v1/volumes?q=turing
+
+Header			Value
+ETag			"_rmWcTkH-s1QFjg9mC3Xel0FZSQ/XUWKEq3mh4Go8IdReWb3CK3bxbw"
+Content-Length		28526
+#status#		HTTP/1.1 200 OK
+X-XSS-Protection	1; mode=block
+Expires			Mon, 09 Feb 2015 23:43:05 GMT
+Alternate-Protocol	443:quic,p=0.02
+Server			GSE
+X-Content-Type-Options	nosniff
+Cache-Control		private, max-age=0, must-revalidate, no-transform
+X-Frame-Options		SAMEORIGIN
+Vary			Origin
+Vary			X-Origin
+Date			Mon, 09 Feb 2015 23:43:05 GMT
+Content-Type		application/json; charset=UTF-8

@@ -1,0 +1,13 @@
+SOAP endpoint:
+http://www.webservicex.net/geoipservice.asmx?wsdl
+
+www.bbc.co.uk IP address: 212.58.246.92
+
+X-AspNet-Version	4.0.30319
+Date			Tue, 10 Feb 2015 05:25:54 GMT
+Content-Length		515
+#status#		HTTP/1.1 200 OK
+Content-Type		application/soap+xml; charset=utf-8
+Server			Microsoft-IIS/7.0
+X-Powered-By		ASP.NET
+Cache-Control		private, max-age=0
